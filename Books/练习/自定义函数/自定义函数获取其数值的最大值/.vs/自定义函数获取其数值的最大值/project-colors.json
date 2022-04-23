@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9512345-61cc-480d-88cf-b83f59f435e8": {
+      "ProjectGuid": "a9512345-61cc-480d-88cf-b83f59f435e8",
+      "DisplayName": "自定义函数获取其数值的最大值",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

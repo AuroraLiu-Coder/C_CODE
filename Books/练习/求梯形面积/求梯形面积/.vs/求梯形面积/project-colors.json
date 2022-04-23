@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b06fbfc-ad94-4b2d-87e9-5663c51dd668": {
+      "ProjectGuid": "8b06fbfc-ad94-4b2d-87e9-5663c51dd668",
+      "DisplayName": "求梯形面积",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

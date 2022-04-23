@@ -1,0 +1,3 @@
+﻿  demo.c
+D:\Code\Books\第6章 数组\demo_4_21\demo.c(52,41): error C2059: 语法错误:“常数”
+D:\Code\Books\第6章 数组\demo_4_21\demo.c(52,83): error C2001: 常量中有换行符
